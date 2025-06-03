@@ -1,0 +1,11 @@
+--- ./backports/backports.txt	2025-05-30 15:43:26.442360687 +0200
++++ ./backports/backports.txt.new	2025-05-30 15:52:49.386775779 +0200
+@@ -121,7 +121,7 @@
+ 
+ [4.11.1023]
+ add v4.11_drop_drm_file.patch
+-add v4.11_vb2_kmap.patch
++delete v4.11_vb2_kmap.patch
+ add v4.11_pwc.patch
+ 
+ [4.10.1023]

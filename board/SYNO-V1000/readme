@@ -1,0 +1,11 @@
+This board profile covers all Synology devices using the v1000 architecture.
+
+This includes:
+- DS1621+
+- DS1821+
+
+
+Kernel modifications:
+- 0001-kernel.patch: set variable EXTRAVERSION = +
+
+
